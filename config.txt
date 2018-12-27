@@ -1,8 +1,6 @@
-?token=«· Êﬂ‰ 
-owner=«œÌ » ⁄ﬂ 
+token=NTI3ODcyNTM2MjQ4MzIwMDAw.DwaJIA.M6sz6mUK50TZk7kN8sz4Lni37fc
+owner=500351379865468930
 prefix= o
 game= !Ohelp
 stayinchannel=true
 songinstatus=true 
-token=NTI3ODcyNTM2MjQ4MzIwMDAw.DwaDcg.yzMYtXVtn3JaT7uqZ2F6ZIT1d_g
-owner=500351379865468930
